@@ -1,0 +1,1 @@
+function e(){if(!document)throw new Error("No document is available. Make sure to use this client-side only.");return Array.from(document.querySelectorAll("._scroll")).pop()??document.documentElement}export{e as g};

@@ -1,0 +1,1 @@
+import{r as c}from"./entry.EFDYqbg4.mjs";const i=(s,t)=>{const u=c(null,r=>{const n=e=>{r(e),r(null)};return window.addEventListener(s,n,t),()=>{window.removeEventListener(s,n,t),r(null)}});return{subscribe:r=>u.subscribe(e=>{e&&r(e)})}};export{i as c};

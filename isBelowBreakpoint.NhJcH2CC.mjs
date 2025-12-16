@@ -1,0 +1,1 @@
+import{D as i}from"./Media.QcmNVBvt.mjs";import{r}from"./entry.EFDYqbg4.mjs";const h=r(!1,a=>{var e,o;const n=s=>{a(!s.matches)};if(!window.matchMedia)return;const t=window.matchMedia(i);a(!t.matches),(e=t.addEventListener)==null||e.call(t,"change",n),t.addEventListener||(o=t.addListener)==null||o.call(t,n)});export{h as i};
